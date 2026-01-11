@@ -1,0 +1,83 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background: #f1f3f6;
+}
+
+.app {
+  max-width: 520px;
+  margin: auto;
+  padding: 20px;
+}
+
+.topo h1 {
+  margin: 0;
+  font-size: 26px;
+}
+
+.topo span {
+  color: #16a34a;
+}
+
+.topo p {
+  color: #666;
+  margin-top: 5px;
+}
+
+.card {
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  margin-top: 20px;
+}
+
+h2 {
+  margin-top: 0;
+}
+
+label {
+  font-weight: bold;
+  margin-top: 12px;
+  display: block;
+}
+
+input, select {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  margin-top: 5px;
+}
+
+button {
+  width: 100%;
+  margin-top: 20px;
+  padding: 14px;
+  font-size: 16px;
+  background: #111827;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.resultados {
+  margin-top: 25px;
+}
+
+.resultado {
+  background: white;
+  padding: 14px;
+  border-radius: 10px;
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.resultado span {
+  float: right;
+}
+
+.verde {
+  background: #16a34a;
+  color: white;
+}
