@@ -1,11 +1,11 @@
-{
-  "name": "Serralheiro Pro",
-  "short_name": "SerralheiroPro",
-  "description": "Calculadora profissional para portões basculantes",
-  "start_url": "/serralheiro-pro-calc/",
-  "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#0a7cff",
+"name": "SerralheiroPro",
+"short_name": "SerralheiroPro",
+"description": "Calculadora técnica para portões basculantes",
+"display": "standalone",
+"start_url": "./",
+"background_color": "#ffffff",
+"theme_color": "#0a7cff"
+
   "icons": [
   {
     "src": "icon-192.png",
@@ -20,4 +20,5 @@
     "purpose": "any maskable"
   }
 ]
+
 
